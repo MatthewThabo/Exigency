@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803838423676",
+    "project_id": "exigency-f90f5",
+    "storage_bucket": "exigency-f90f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803838423676:android:4320cda511130f677bcff9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803838423676-f90io4j84r46jg5opb4t2ilcb15452qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGP9St--O6UQsY7kCdbrQkgm-KtVT5ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803838423676-f90io4j84r46jg5opb4t2ilcb15452qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
